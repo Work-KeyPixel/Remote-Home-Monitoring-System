@@ -88,15 +88,16 @@ The pin diagram is simulated using Fritzing software
 ## Result 
 1. Model
 The following figure shows the architecture of the model:
-![Model](./images/System.png)
+![Model](./images/system.png)
 
 2. Node-red Dashboard  
-- Monitor temperature and humidity to detect abnormal environmental conditions 
-- Use the proximity sensor combined with the servo motor to recognize movement patterns or unusual behaviors
-- Measure ambient light levels to identify environmental changes or unexpected lighting conditions
-- Detect flame or fire events and evaluate their severity for safety responses
-
+- Main 3 rooms in system
+    - Monitor temperature and humidity to detect abnormal environmental conditions 
+    - Measure ambient light levels to identify environmental changes or unexpected lighting conditions
+    - Detect flame or fire events and evaluate their severity for safety responses
 ![Node-Red Dashboard](./images/result-final.png)
+
+- The Gates automation: Use the proximity sensor combined with the servo motor to recognize movement patterns or unusual behaviors
 ![Node-Red Dashboard](./images/IR.png)
 
 ## Video Demo 

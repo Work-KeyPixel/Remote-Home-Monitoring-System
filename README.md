@@ -24,8 +24,8 @@ Real-World Demand: Modern homes face potential hazards such as fires, and intrus
 - Microcontroller: MH-ET LIVE MiniKit for ESP32: Main microcontroller for processing sensor data
 - DHT11 Sensor: Measures temperature and humidity
 - IR Sensor: Detects motion or presence in monitored areas
-- Flame Sensor: Detects fire or flames
-- LDR Sensor: Measures ambient light for lighting control from led norm
+- Fire/Flame Sensor: Detects fire or flames
+- Light Sensor: Measures ambient light for lighting control from led norm
 - Servo Motor: Opens or closes gates automatically
 - LEDs (3 x normal): Visual indicators for different statuses
 - RGB LED: Warning indicator for critical hazards
@@ -64,7 +64,7 @@ Real-World Demand: Modern homes face potential hazards such as fires, and intrus
 - The DHT11 sensor continuously measures temperature and humidity inside the house
 - Data can be displayed on the dashboard via Node-RED for monitoring
 
-## Block Diagram 
+## Block Diagram and FlowChart
 1. Block diagram  
 ![Block Diagram](./images/block_diagram.png)
 

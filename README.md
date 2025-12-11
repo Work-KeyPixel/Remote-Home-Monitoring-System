@@ -96,4 +96,5 @@ The pin diagram is simulated using Fritzing software
 ![Node-Red Dashboard](./images/Fire-Light.png)
 ![Node-Red Dashboard](./images/dht11.png)
 ![Node-Red Dashboard](./images/IR.png)
+
 ## Video Demo 

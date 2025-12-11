@@ -78,10 +78,10 @@ The pin diagram is simulated using Fritzing software
 # Connection table with ESP32 pins: 
 
 1. ESP32 Pinout  
-![ESP32-Pinout](./images/esp32_pinout.jpg)
+![ESP32-Pinout](./images/esp32_pinout.png)
 
 2. Connection table with ESP32 pins:  
-![Conenct-Pinout](./images/Connect_Pin.png)
+![Conenct-Pinout](./images/connect _pinout.png)
 
 ## Result 
 1. Model:  
@@ -93,6 +93,6 @@ The pin diagram is simulated using Fritzing software
 - Measure ambient light levels to identify environmental changes or unexpected lighting conditions
 - Detect flame or fire events and evaluate their severity for safety responses
 
-![Node-Red Dashboard](./images/result.png)
+![Node-Red Dashboard](./images/results.png)
 
 ## Video Demo 

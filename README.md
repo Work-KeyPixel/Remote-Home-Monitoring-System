@@ -88,6 +88,7 @@ The pin diagram is simulated using Fritzing software
 
 ## Result 
 1. Model
+
 The following figure shows the architecture of the model:
 ![Model](./images/home_system.png)
 

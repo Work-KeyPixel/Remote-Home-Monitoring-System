@@ -94,6 +94,6 @@ The pin diagram is simulated using Fritzing software
 - Detect flame or fire events and evaluate their severity for safety responses
 
 ![Node-Red Dashboard](./images/result-final.png)
-![Node-Red Dashboard](./images/IR.jpg)
+![Node-Red Dashboard](./images/IR.png)
 
 ## Video Demo 

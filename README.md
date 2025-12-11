@@ -66,7 +66,7 @@ Real-World Demand: Modern homes face potential hazards such as fires, and intrus
 
 ## Block Diagram 
 1. Block diagram  
-![Block Diagram](./images/block%20diagram.jpg)
+![Block Diagram](./images/block diagram.jpg)
 
 2. Algorithm Flowchart  
 ![Algorithms](./images/algorithms.jpg)
@@ -75,7 +75,8 @@ Real-World Demand: Modern homes face potential hazards such as fires, and intrus
 The pin diagram is simulated using Fritzing software  
 ![Fritzing Diagram](./images/diagram_fritizing.jpg)
 
-# Connection table with ESP32 pins: 
+# Connection table with ESP32 pins 
+Below is the ESP32 pinout and its signal connections with the modules in the system:
 
 1. ESP32 Pinout  
 ![ESP32 Pinout](./images/signals.png)
@@ -84,7 +85,8 @@ The pin diagram is simulated using Fritzing software
 ![Conenct-Pinout](./images/connect _pinout.png)
 
 ## Result 
-1. Model:  
+1. Model
+The following figure shows the architecture of the model:
 ![Model](./images/System.png)
 
 2. Node-red Dashboard  

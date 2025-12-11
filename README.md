@@ -91,13 +91,15 @@ The following figure shows the architecture of the model:
 ![Model](./images/system.png)
 
 2. Node-red Dashboard  
-- Main 3 rooms in system
+- Environmental Monitoring in Main Rooms:
     - Monitor temperature and humidity to detect abnormal environmental conditions 
     - Measure ambient light levels to identify environmental changes or unexpected lighting conditions
     - Detect flame or fire events and evaluate their severity for safety responses
 ![Node-Red Dashboard](./images/result-final.png)
 
-- The Gates automation: Use the proximity sensor combined with the servo motor to recognize movement patterns or unusual behaviors
+- Automated Gate Control: 
+    - Use proximity sensors combined with servo motors to recognize movement patterns 
+    - Detect unusual activity for gate automation 
 ![Node-Red Dashboard](./images/IR.png)
 
 ## Video Demo 

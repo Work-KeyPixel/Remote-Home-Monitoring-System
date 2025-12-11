@@ -1,7 +1,7 @@
 ## Remote Home Monitoring System
 
 ## Project Overview
-The Remote Home Monitoring System is an IoT-based solution designed to allow homeowners to monitor their house remotely. The system provides real-time environmental data, detects potential hazards, and enables control over devices like lights, ensuring safety and convenience.
+The Remote Home Monitoring System is an IoT-based solution designed to allow homeowners to monitor their house remotely. The system provides environmental data, detects potential hazards, and enables control over devices like lights, ensuring safety and convenience.
 
 ## Problem Statement
 
@@ -9,7 +9,7 @@ Real-World Demand: Modern homes face potential hazards such as fires, and intrus
 
 - Detects environmental changes like temperature, humidity, light, and fire
 - Detects presence or motion in critical areas
-- Alerts occupants immediately through lights, buzzer, or RGB indicators
+- Alerts fire/flame immediately through lights, buzzer, or RGB indicators
 - Provides automated responses such as gate control
 
 ## Inspiration

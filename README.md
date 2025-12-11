@@ -91,6 +91,8 @@ The following figure shows the architecture of the model:
 ![Model](./images/system.png)
 
 2. Node-red Dashboard  
+- Remote Monitoring via Dashboard: Use the Node-Red dashboard to remotely monitor and control the system in real time.
+
 - Environmental Monitoring in Main Rooms:
     - Monitor temperature and humidity to detect abnormal environmental conditions 
     - Measure ambient light levels to identify environmental changes or unexpected lighting conditions

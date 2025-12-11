@@ -71,10 +71,6 @@ Real-World Demand: Modern homes face potential hazards such as fires, and intrus
 2. Algorithm Flowchart  
 ![Algorithms](./images/algorithms.jpg)
 
-3. Pin Diagram  
-The pin diagram is simulated using Fritzing software  
-![Fritzing Diagram](./images/diagram_fritizing.jpg)
-
 # Connection table with ESP32 pins 
 Below is the ESP32 pinout and its signal connections with the modules in the system:
 
@@ -82,7 +78,12 @@ Below is the ESP32 pinout and its signal connections with the modules in the sys
 ![ESP32 Pinout](./images/esp32_pinout.png)
 
 2. Connection table with ESP32 pins:  
-![Conenct-Pinout](./images/singals.png)
+![Conenct-Pinout](./images/singals_pin.png)
+
+## Pin Diagram  
+The pin diagram is simulated using Fritzing software  
+![Fritzing Diagram](./images/diagram_fritizing.jpg)
+
 
 ## Result 
 1. Model

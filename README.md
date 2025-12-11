@@ -103,7 +103,7 @@ The following figure shows the architecture of the model:
 - Automated Gate Control: 
     - Use proximity sensors combined with servo motors to recognize movement patterns 
     - Detect unusual activity for gate automation 
-![Node-Red Dashboard](./images/IR.png)
+![Node-Red Dashboard](./images/IR.jpg)
 
 ## Video Demo 
 Let's see my IoT project in action!  

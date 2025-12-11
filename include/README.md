@@ -5,9 +5,9 @@ This directory contains configuration files, sensor, and secret credentials used
 ## config_mqtt
 Contains files for **MQTT communication and Wi-Fi setup**:
 - `MQTT.h` – Wrapper for MQTT client functions (only test mqtt before coding)
+- `wifi_connect.h` – Functions to connect ESP32 to Wi-Fi (only test wifi before coding)
 - `ca_cert_emqx.h` – Certificate authority for secure MQTT connection
 - `mqtt_client.h` – Handles MQTT publishing and subscribing
-- `wifi_connect.h` – Functions to connect ESP32 to Wi-Fi (only test wifi before coding)
 
 ## config_sensor
 Contains **sensor driver files** for reading environmental data:
@@ -23,8 +23,8 @@ Stores **private credentials**, separated from the main code for security:
 
 ## Usage
 Include the relevant headers in your main project code to configure sensors and MQTT communication:
-- `#include "config_mqtt/MQTT.h"`
-- `#include "config_sensor/sensor_dht11.h"`
-- `#include "secrets/wifi.h"`
+- `#include "config_mqtt"`
+- `#include "config_sensor"`
+- `#include "secrets"`
 
-> **Note:** Do not share the `secrets` folder publicly to avoid exposing sensitive credentials.
+> **Note:** Do not share the `secrets` folder publicly to avoid exposing sensitive credentials

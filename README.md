@@ -78,6 +78,7 @@ Below is the ESP32 pinout and its signal connections with the modules in the sys
 ![ESP32 Pinout](./images/esp32_pinout.png)
 
 2. Connection table with ESP32 pins 
+
 ESP32 pinout connected to the modules in the system:  
 ![Conenct-Pinout](./images/signal_pin.png)
 
@@ -92,7 +93,8 @@ The pin diagram is simulated using Fritzing software
 - The following figure shows the architecture of the model:
 ![Model](./images/home_system.png)
 
-2. Node-red Dashboard  
+2. Node-red Dashboard
+
 - Remote Monitoring via Dashboard: Use the Node-Red dashboard to remotely monitor and control the system in real time.
 
 - Environmental Monitoring in Main Rooms:
@@ -114,6 +116,7 @@ https://bit.ly/IoTProject2025
 
 
 ## Conclusion 
+
 This IoT project successfully integrates multiple sensors and modules with ESP32, providing real-time monitoring and automation through a Node-RED dashboard.  
 - Environmental parameters such as temperature, humidity, light, and fire/flame are continuously monitored
 - Automated gate control responds to proximity detection and unusual activity

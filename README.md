@@ -104,7 +104,6 @@ The following figure shows the architecture of the model:
     - Use proximity sensors combined with servo motors to recognize movement patterns 
     - Detect unusual activity for gate automation 
 ![Node-Red Dashboard](./images/IR_sensor.png)
-
 With this system, we can remotely monitor the smart home through the dashboard, including temperature, humidity, ambient light, fire alerts, and motion detection.
 
 ## Video Demo 

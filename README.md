@@ -78,7 +78,7 @@ Below is the ESP32 pinout and its signal connections with the modules in the sys
 ![ESP32 Pinout](./images/esp32_pinout.png)
 
 2. Connection table with ESP32 pins:  
-![Conenct-Pinout](./images/singals_pin.png)
+![Conenct-Pinout](./images/signals_pin.png)
 
 ## Pin Diagram  
 The pin diagram is simulated using Fritzing software  

@@ -33,7 +33,7 @@ Real-World Demand: Modern homes face potential hazards such as fires, and intrus
 
 2. Software Component 
 - Platform I/O: Development environment for programming ESP32
-- Node-Red: displays data from DHT11, IR, Flame, and LDR sensors on a dashboard, allowing remote monitoring of home environment
+- Node-Red: displays data from DHT11, IR, Flame, and Light sensor on a dashboard, allowing remote monitoring of home environment
 - MQTT Broker (EMQX): Communication between sensors and dashboard
 
 ## System Concept 
@@ -44,7 +44,7 @@ Real-World Demand: Modern homes face potential hazards such as fires, and intrus
 - Kitchen: Integrated with a flame sensor for fire detection and equipped with red LED warning lights that blink in case of fire 
 - Living Room: 
     - Integrated with a DHT11 sensor to monitor temperature and humidity
-    - Equipped with a light sensor (LDR) to monitor ambient brightness.
+    - Equipped with a light sensor to monitor ambient brightness.
     - Equipped with normal LEDs, RGB LED, and buzzer for hazard or emergency alerts
 - Bedroom: Equipped with LED acting as night light, controlled by the light sensor when it gets too dark
 
@@ -105,3 +105,5 @@ The following figure shows the architecture of the model:
 ![Node-Red Dashboard](./images/IR.png)
 
 ## Video Demo 
+Let's see my IoT project in action!  
+https://bit.ly/IoTProject2025

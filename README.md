@@ -88,7 +88,7 @@ The pin diagram is simulated using Fritzing software
 ## Result 
 1. Model
 The following figure shows the architecture of the model:
-![Model](./images/system.png)
+![Model](./images/home_system.png)
 
 2. Node-red Dashboard  
 - Remote Monitoring via Dashboard: Use the Node-Red dashboard to remotely monitor and control the system in real time.

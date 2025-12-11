@@ -66,7 +66,7 @@ Real-World Demand: Modern homes face potential hazards such as fires, and intrus
 
 ## Block Diagram 
 1. Block diagram  
-![Block Diagram](./images/block_diagram.jpg)
+![Block Diagram](./images/block_diagram.png)
 
 2. Algorithm Flowchart  
 ![Algorithms](./images/algorithms.jpg)

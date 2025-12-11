@@ -78,7 +78,7 @@ The pin diagram is simulated using Fritzing software
 # Connection table with ESP32 pins: 
 
 1. ESP32 Pinout  
-![ESP32 Pinout](./images/esp32_pinout.png)
+![ESP32 Pinout](./images/signals.png)
 
 2. Connection table with ESP32 pins:  
 ![Conenct-Pinout](./images/connect _pinout.png)
@@ -94,7 +94,7 @@ The pin diagram is simulated using Fritzing software
 - Detect flame or fire events and evaluate their severity for safety responses
 
 ![Node-Red Dashboard](./images/Fire-Light.png)
-![Node-Red Dashboard](./images/dht11.png)
-![Node-Red Dashboard](./images/IR.png)
+![Node-Red Dashboard](./images/dht11.jpg)
+![Node-Red Dashboard](./images/IR.jpg)
 
 ## Video Demo 

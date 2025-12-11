@@ -93,8 +93,7 @@ The pin diagram is simulated using Fritzing software
 - Measure ambient light levels to identify environmental changes or unexpected lighting conditions
 - Detect flame or fire events and evaluate their severity for safety responses
 
-![Node-Red Dashboard](./images/Fire-Light.png)
-![Node-Red Dashboard](./images/dht11.jpg)
-![Node-Red Dashboard](./images/IR.jpg)
+![Node-Red Dashboard](./images/result-final.png.png)
+![Node-Red Dashboard](./images/IR-result.png)
 
 ## Video Demo 

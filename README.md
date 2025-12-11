@@ -65,35 +65,34 @@ Real-World Demand: Modern homes face potential hazards such as fires, and intrus
 - Data can be displayed on the dashboard via Node-RED for monitoring
 
 ## Block Diagram 
-1. Block diagram
+1. Block diagram  
 ![Block Diagram](./images/block%20diagram.jpg)
 
-2. Algorithm Flowchart
+2. Algorithm Flowchart  
 ![Algorithms](./images/algorithms.jpg)
 
-3. Pin Diagram
-The pin diagram is simulated using Fritzing software 
+3. Pin Diagram  
+The pin diagram is simulated using Fritzing software  
 ![Fritzing Diagram](./images/diagram_fritizing.jpg)
 
 # Connection table with ESP32 pins: 
 
-1. ESP32 Pinout 
+1. ESP32 Pinout  
 ![ESP32-Pinout](./images/esp32_pinout.jpg)
 
-2. Connection table with ESP32 pins:
+2. Connection table with ESP32 pins:  
 ![Conenct-Pinout](./images/Connect_Pin.png)
 
 ## Result 
-1. Model: 
+1. Model:  
 ![Model](./images/System.png)
 
-2. Node-red Dashboard
+2. Node-red Dashboard  
 - Monitor temperature and humidity to detect abnormal environmental conditions 
 - Use the proximity sensor combined with the servo motor to recognize movement patterns or unusual behaviors
 - Measure ambient light levels to identify environmental changes or unexpected lighting conditions
 - Detect flame or fire events and evaluate their severity for safety responses
 
 ![Node-Red Dashboard](./images/result.png)
-
 
 ## Video Demo 
